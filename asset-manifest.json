@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Host-Counter-App/static/css/main.ea95bde4.css",
+    "main.js": "/Host-Counter-App/static/js/main.026103b8.js",
+    "static/js/787.5863b875.chunk.js": "/Host-Counter-App/static/js/787.5863b875.chunk.js",
+    "static/media/logo.svg": "/Host-Counter-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Host-Counter-App/index.html",
+    "main.ea95bde4.css.map": "/Host-Counter-App/static/css/main.ea95bde4.css.map",
+    "main.026103b8.js.map": "/Host-Counter-App/static/js/main.026103b8.js.map",
+    "787.5863b875.chunk.js.map": "/Host-Counter-App/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea95bde4.css",
+    "static/js/main.026103b8.js"
+  ]
+}
